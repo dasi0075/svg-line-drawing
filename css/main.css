@@ -5,9 +5,7 @@ html {
 
 h1 {
   color: #f1f1f1;
-  animation: fade 1s linear;
-  top: -70px;
-  z-index: 1000;
+  animation: blur 1s linear;
 }
 
 
