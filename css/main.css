@@ -4,8 +4,12 @@ html {
 }
 
 h1 {
-  color: #f1f1f1;
+  color: #fff;
   animation: blur 1s linear;
+  transform: translateX(-220px);
+  transform: translateY(-580px);
+  z-index: 1000;
+
 }
 
 @keyframes blur {
