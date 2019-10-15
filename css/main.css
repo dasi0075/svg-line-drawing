@@ -6,8 +6,8 @@ html {
 h1 {
   color: #fff;
   animation: blur 1s linear;
-  transform: translateX(-220px);
-  transform: translateY(-580px);
+  transform: translateX(-320px);
+  transform: translateY(-500px);
   z-index: 1000;
 }
 
@@ -20,8 +20,8 @@ h1 {
 #narwhal-body {
   animation: offset 2s linear forwards;
   stroke-dasharray: 1900px;
-  stroke-dashoffset: 1900px;
-  animation-delay: 3s;
+  stroke-dashoffset: 1890px;
+  animation-delay: 1s;
 }
 
 #rainbow-indigo {
