@@ -9,7 +9,6 @@ h1 {
   transform: translateX(-220px);
   transform: translateY(-580px);
   z-index: 1000;
-
 }
 
 #narwhal-eye {
@@ -97,4 +96,5 @@ h1 {
     opacity: 1;
     filter: blur(0);
   }
+
 }
